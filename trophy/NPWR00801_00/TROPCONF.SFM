@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000eb5cd09130cbac55782c7769dc08353e91a7a86bc7318fa40059aba505f33c7d481c352d046ba1e39e97a84cb23dae3b9549a7d4bce23f980ff0e40eb29def40cac46086bf655567edc7292fb975fa5b36e63ac1f7bd5ff2012def35040c226866fbcf50a70ef5cd50813a77c6706fbc2aeb71c24fcac15724089ea47136f0ca000a25d93715862a30aeb1444a8a773dd8827a49-->
+<trophyconf version="1.1">
+ <npcommid>NPWR00801_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>God of War® III</title-name>
+ <title-detail>The God of War® III Trophy Set</title-detail>
+ <trophy id="000" hidden="yes" ttype="P" pid="-1">
+  <name>King of the Hill</name>
+  <detail>Unlock all trophies - WWW.SPARTANSSTANDTALL.COM</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Releasing the Floodgates</name>
+  <detail>Kill Poseidon</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Burnt to a Crisp</name>
+  <detail>Acquire the Bow of Apollo</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Mr. Hand</name>
+  <detail>Discover the secret 'Hades Arm' room</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Shine Lord</name>
+  <detail>Kill Helios</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Shoe Delivery</name>
+  <detail>Kill Hermes and acquire his Boots</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>I didn’t do it... But I wish I did!</name>
+  <detail>Kill the Poseidon Princess</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Ladies Man</name>
+  <detail>Successfully entertain Aphrodite</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Handy Man</name>
+  <detail>Sever Gaia’s hand</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Open Sesame</name>
+  <detail>Open the Gates of Tisiphone</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Rescue Me</name>
+  <detail>Save Pandora</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Three Wise Men</name>
+  <detail>Solve the Three Judges</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Hit Man</name>
+  <detail>Perform a 1000-hit combo</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Rip One!</name>
+  <detail>Rip apart 1 Olympus Sentry</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Nice Tan</name>
+  <detail>Blind 100 enemies with the Head of Helios</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Obedience School</name>
+  <detail>Deliver 50 kicks to Hounds</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>It’s getting hot in here...</name>
+  <detail>Burn 100 enemies with the Bow of Apollo</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Souled Out</name>
+  <detail>Summon every Soul with the Claws of Hades</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Bloody Hell</name>
+  <detail>Cover Kratos in 500 buckets of blood by killing the enemies</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>No Guts, No Glory</name>
+  <detail>Gut 3 Centaur Generals</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Hitting Your Stride</name>
+  <detail>Upgrade any weapon to the next level</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Sibling Rivalry</name>
+  <detail>Kill Hercules</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Titan Slayer</name>
+  <detail>Kill Cronos</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Retribution</name>
+  <detail>Kill Zeus</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Hooker</name>
+  <detail>Kill Hades</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Freezer Burn</name>
+  <detail>Acquire the Boreas Icestorm</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Seeing things from a different perspective</name>
+  <detail>Solve Hera's Gardens</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Eye Candy</name>
+  <detail>Collect all of the Gorgon Eyes</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Feather Plucker</name>
+  <detail>Collect all of the Phoenix Feathers</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Are You Horny to Win?</name>
+  <detail>Collect all of the Minotaur Horns</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Maxed Out!</name>
+  <detail>Completely upgrade all weapons</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Vengeance Complete</name>
+  <detail>Beat the game</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Up to the Challenge</name>
+  <detail>Beat the Challenge of Olympus</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Unhuman</name>
+  <detail>Beat Titan Mode</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Priceless</name>
+  <detail>Collect all of the ‘Godly Possessions’</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>aMAZEd</name>
+  <detail>Beat the Labyrinth without dying or failing</detail>
+ </trophy>
+</trophyconf>

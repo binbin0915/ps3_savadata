@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000021ad3818cfe07db6bbfa8d125100ab060fbbcc96726d72a92b49500375b92c458193dd6fa98515b110e99362e37ce0f239c329c8cfa9bbc1fdb0f7904899c0d7fcab20f7bbc1c6a066508f5647fc9669087a268285e4e4598e1edc26df96e66e243472c5991cb15295034fd34038438bd029b2da3e339a620494bc67caee392665227469970141f0518cc77d6e376b6028f1d540-->
+<trophyconf version="1.1" policy="large">
+ <npcommid>NPWR00802_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>God of War: Ascension™</title-name>
+ <title-detail>God of War: Ascension™的獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>神之鬥士</name>
+  <detail>解開所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>血誓</name>
+  <detail>完成奧林匹斯的多人遊玩訓練</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>逃獄</name>
+  <detail>讓克雷多斯逃出牢獄</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>手到擒來</name>
+  <detail>打敗埃該翁被寄生的手臂</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>大顯身手</name>
+  <detail>抓住一個敵人再拋出、撞擊和破壞其盔甲</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>一擲千金</name>
+  <detail>將任何魔法強化到下一等級</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>轉呀轉</name>
+  <detail>解開旋轉機關的謎題</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>自由搏擊</name>
+  <detail>成功完成對半象人戰的無按鈕提示小遊戲一次</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>停不下來</name>
+  <detail>達成1000下連擊</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>一擊拜拜</name>
+  <detail>使用棍棒將一個敵人擊出場</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>騎蛇</name>
+  <detail>坐在蛇上回到德爾斐塔</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>樣樣精通</name>
+  <detail>在戰鬥中使用全部5種關卡武器</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>預備午餐</name>
+  <detail>成功完成對人頭獅身怪戰的無按鈕提示小遊戲一次</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>深呼吸</name>
+  <detail>在預言者的神殿吸入毒氣</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>修理技工</name>
+  <detail>重建基拿的水車</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>給我停住</name>
+  <detail>使用銜尾蛇護身符減慢100個敵人的行動</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>血印</name>
+  <detail>向克雷多斯潑灑500桶血</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>要你好看</name>
+  <detail>殘酷對待百臂巨人城的囚犯</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>分身術</name>
+  <detail>在戰鬥中使用奧可斯的誓約石10次</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>最佳隊友</name>
+  <detail>使用奧可斯的誓約石打中100個敵人</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>怒不可遏</name>
+  <detail>使用神怒殺害25個敵人</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>反咬一口</name>
+  <detail>打倒美紀拉與泰坦百臂巨人</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>注意血壓</name>
+  <detail>保持怒火計全滿2分鐘以上</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>怪胎</name>
+  <detail>打倒波魯克斯</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>危機當前</name>
+  <detail>避過復仇女神的埋伏</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>防火</name>
+  <detail>在沒有被火陷阱打中下完成阿基米德的螺旋機關</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>輕於鴻毛</name>
+  <detail>收集所有鳳凰羽毛</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>眼明手快</name>
+  <detail>收集所有蛇髮魔女之眼</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>完全進化</name>
+  <detail>完成克雷多斯的所有強化</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>超長滑梯</name>
+  <detail>沒有死亡下完成阿波羅神像的滑行部分</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>盲目正義</name>
+  <detail>成功使用真實之眼</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>德瑞克，這不是你的</name>
+  <detail>收集遊戲內的所有聖物</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>下次還是用樓梯吧</name>
+  <detail>完成阿基米德的酷刑</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>熱愛修理</name>
+  <detail>修好所有壞掉的寶箱</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>打破血誓</name>
+  <detail>完成遊戲</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>傳說戰士</name>
+  <detail>以「困難」難度完成遊戲</detail>
+ </trophy>
+</trophyconf>

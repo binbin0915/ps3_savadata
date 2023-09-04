@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e2e8860069660ec0605cf87761e674a44999be50954e5e7ddbae38c0b245e8a9cd40096dc8b65ec6b68b15b8506f25c2d0001f2bb54f65ef7d08b288d173b3ea8811af4a8e79f223d37b2806cee66fb31c277016b9a92c8eaf4a709329d46464e68ecdaee7eba15f7c3ce09743fbfd8c37dbafbc8eede83222ef83399d27f963d2a99d797f3957f36b05c48df18bff961652dd5b-->
+<trophyconf version="1.1">
+ <npcommid>NPWR04298_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fist of the North Star: Ken’s Rage 2</title-name>
+ <title-detail>Fist of the North Star: Ken's Rage 2 Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>True Rage Master</name>
+  <detail>Collected all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Eviscerate Zeed</name>
+  <detail>Defeated Zeed in the Legend Mode episode "Zeed Attacks."</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Slay Shin</name>
+  <detail>Defeated Shin in the Legend Mode episode "The Flames of Obsession."</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Crush the Colonel</name>
+  <detail>Defeated the Colonel in the Legend Mode episode "The Tears to End Ambition."</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Destroy Devil Rebirth</name>
+  <detail>Defeated Devil Rebirth in the Legend Mode episode "The Incarnation of Indra."</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Dethrone Fang King</name>
+  <detail>Defeated Fang King in the Legend Mode episode "The Stone-Shattering Fist."</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Finish Jagi</name>
+  <detail>Defeated Jagi in the Legend Mode episode "Blood Feud."</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Annihilate Amiba</name>
+  <detail>Defeated Amiba in the Legend Mode episode "Tragic Genius."</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Inhume Uighur</name>
+  <detail>Defeated Uighur in the Legend Mode episode "The Quiet Giant."</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Overcome Raoh</name>
+  <detail>Defeated Raoh in the Legend Mode episode "The Harbinger of Death."</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Humiliate Juda</name>
+  <detail>Defeated Juda in the Legend Mode episode "Into the Flames of Hell."</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Subjugate Shew</name>
+  <detail>Defeated Shew in the Legend Mode episode "The Star of Benevolence Awakens."</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Thrash Thouzer</name>
+  <detail>Defeated Thouzer in the Legend Mode episode "The Empire Crumbles."</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Maul Ryuga</name>
+  <detail>Defeated Ryuga in the Legend Mode episode "Tears of the Wolf."</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Repel Raoh</name>
+  <detail>Defeated Raoh in the Legend Mode episode "The Moment Has Come."</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Ruin Raoh</name>
+  <detail>Defeated Raoh in the Legend Mode episode "Farewell, My Rival."</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Outlast Ein</name>
+  <detail>Defeated Ein in the Legend Mode episode "A Fearless Smile."</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Foil Falco</name>
+  <detail>Defeated Falco in the Legend Mode episode "A Duel to Split the Heavens."</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Smash the Nameless Shura</name>
+  <detail>Defeated the Nameless Shura in the Legend Mode episode "Those Who Would Consume Death."</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Quash Keiser</name>
+  <detail>Defeated Keiser in the Legend Mode episode "The Most Evil Art on Earth."</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Hammer Han</name>
+  <detail>Defeated Han in the Legend Mode episode "A Fated Legacy."</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Vanquish Hyou</name>
+  <detail>Defeated Hyou in the Legend Mode episode "Brother Against Brother."</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Conquer Kaioh</name>
+  <detail>Defeated Kaioh in the Legend Mode episode "A Destined Encounter."</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>True Successor</name>
+  <detail>Completed all Legend Mode episodes.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Post-Apocalyptic Savior</name>
+  <detail>Completed Dream Mode with Kenshiro.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Miracle Maker</name>
+  <detail>Completed Dream Mode with Toki.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Absolute Ruler</name>
+  <detail>Completed Dream Mode with Raoh.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Twisted Brute</name>
+  <detail>Completed Dream Mode with Jagi.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Star of Righteousness</name>
+  <detail>Completed Dream Mode with Rei.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Star of Martyrdom</name>
+  <detail>Completed Dream Mode with Shin.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Emperor of Nanto</name>
+  <detail>Completed Dream Mode with Thouzer.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Star of Enchantment</name>
+  <detail>Completed Dream Mode with Juda.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Blind General of Valor</name>
+  <detail>Completed Dream Mode with Shew.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Towering Mountain</name>
+  <detail>Completed Dream Mode with Fudo.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Keeper of the Hokuto Spirit</name>
+  <detail>Completed Dream Mode with Bat.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>The One True Hope</name>
+  <detail>Completed Dream Mode with Rin.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Warrior of Eternal Love</name>
+  <detail>Completed Dream Mode with Shachi.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Passionate Shura General</name>
+  <detail>Completed Dream Mode with Hyou.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Crazed Demonic Fiend</name>
+  <detail>Completed Dream Mode with Kaioh.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Proud Maiden Warrior</name>
+  <detail>Completed Dream Mode with Mamiya.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Wolf of Anarchy</name>
+  <detail>Completed Dream Mode with Ryuga.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Free-Spirited Cloud</name>
+  <detail>Completed Dream Mode with Juza.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Bounty Hunter</name>
+  <detail>Completed Dream Mode with Ein.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Golden Guardian General</name>
+  <detail>Completed Dream Mode with Falco.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Quest Master</name>
+  <detail>Completed all Dream Mode challenges in Free Mode.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="G" pid="000">
+  <name>True Savior</name>
+  <detail>Completed all Dream Mode quests with the highest rating.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>Fists of Persistence</name>
+  <detail>Played for over 50 hours in total.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>True Master of the Apocalypse</name>
+  <detail>Defeated 100,000 enemies.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>Ultimate Nexus Master</name>
+  <detail>Collected all scrolls and completed an Ultimate Nexus.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Co-op Play Veteran</name>
+  <detail>Participated in 10 online Co-op Play games.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Team Match Master</name>
+  <detail>Claimed victory in 10 online Team Matches.</detail>
+ </trophy>
+</trophyconf>

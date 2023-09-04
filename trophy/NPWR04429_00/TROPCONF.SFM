@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000085e9f74ce926cb71a38ffd9ad00dd988d1e57f645314401cae6c85924f94a5454943cd6f7b130eb2d50e0a17f527158c163b68fd8e6b12e8e11151c4382395f9b719034c1ded2f93d3a497f2e4f78ca918dae5c610b8a988319013af6814151c9553c013ea7f3b57783b58a992a938aab9b7ac683f514a957f9961c450a313f29c6d292da54446fa93d9c89316c9f8163f289911-->
+<trophyconf version="1.1" policy="large">
+ <npcommid>NPWR04429_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Everybody's Golf™ 6</title-name>
+ <title-detail>Everybody's Golf™ 6 Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>滿懷對全民高爾夫選手的感謝</name>
+  <detail>獲得所有獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>壓倒性的蠻力</name>
+  <detail>於會保留紀錄的正式巡洞賽中，締造350yd以上的開球紀錄。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>推桿高手</name>
+  <detail>於會保留紀錄的正式巡洞賽中，打出15m以上的長推桿進洞。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>幸運的水神</name>
+  <detail>於會保留紀錄的正式巡洞賽中，連續3次以上水漂成功。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>首次直接切球進洞</name>
+  <detail>於會保留紀錄的正式巡洞賽中，從果嶺外直接切球進洞。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>首次博蒂</name>
+  <detail>於會保留紀錄的正式巡洞賽中，擊出博蒂（BIRDIE）。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>雙重圈的記號</name>
+  <detail>於會保留紀錄的正式巡洞賽中，擊出老鷹（EAGLE）。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>唯有神知道的奇蹟</name>
+  <detail>於會保留紀錄的正式巡洞賽中，擊出雙鷹（ALBATROSS）。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>目標鎖定一桿進洞！</name>
+  <detail>於會保留紀錄的正式巡洞賽中，擊出一桿進洞（HOLE-IN-ONE）。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>閃電攀升</name>
+  <detail>於會保留紀錄的正式巡洞賽中，成功擊出Rising Shot。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>華麗螺旋</name>
+  <detail>於會保留紀錄的正式巡洞賽中，成功擊出Spiral Shot。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>火焰追蹤者</name>
+  <detail>於會保留紀錄的正式巡洞賽中，成功擊出Homing Shot。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>每日參加獎</name>
+  <detail>參加每日亞洲大會並巡洞到最後。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>制服出道☆</name>
+  <detail>購買一套變身裝。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>最高品質</name>
+  <detail>購買Lv3的球桿或球。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>球具達人</name>
+  <detail>購買所有Lv３的球桿和球。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>堅定的心意</name>
+  <detail>將一位角色的愛用度提昇到最高。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>最喜歡大家了！</name>
+  <detail>將所有角色的愛用度提昇到最高。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>稱霸球場！</name>
+  <detail>購買所有球場的會員權。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>音響迷</name>
+  <detail>購買所有的BGM。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>球具收集狂</name>
+  <detail>購買所有種類的球桿與球。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>美術品收集者</name>
+  <detail>購買所有的概念草圖。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>SOLD OUT</name>
+  <detail>購買商店內的所有道具。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>滿天星空</name>
+  <detail>收集挑戰模式的所有星星。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>王中之王</name>
+  <detail>收集挑戰模式的所有王冠。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>大廳角色配件收集者</name>
+  <detail>膠囊配件・普通的收集率達到50%。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>大廳角色配件愛好者</name>
+  <detail>膠囊配件・特別的收集率達到50%。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>大廳角色配件收藏家</name>
+  <detail>膠囊配件・豪華的收集率達到50%。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>別小看櫃台！</name>
+  <detail>購買玩者角色「SATSUKI」的使用權。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>絕對的王牌登場</name>
+  <detail>購買玩者角色「GLORIA」的使用權。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>服裝收集狂</name>
+  <detail>購買所有變裝服及所有顏色套組（變裝服）。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>挑戰的開始</name>
+  <detail>於入門級的VS賽中，戰勝「NALU」</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>業餘畢業</name>
+  <detail>於業餘級的VS賽中，戰勝「TANK」</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>能獨當一面的全民高爾夫選手</name>
+  <detail>於職業級的VS賽中，戰勝「ERIKA」</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>挑戰勢如破竹</name>
+  <detail>於銅級的VS賽中，戰勝「EDGE」</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>迎向高潮！</name>
+  <detail>於銀級的VS賽中，戰勝「MAX」</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>挑戰的結束…？</name>
+  <detail>於金級的VS賽中，戰勝「FATIMA」</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="G" pid="000">
+  <name>這才是真正的結局！</name>
+  <detail>於白金級的VS賽中，戰勝「IZZAK」</detail>
+ </trophy>
+</trophyconf>

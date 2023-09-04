@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000064dba20012365c9baabacd4c6057f80c46ed184190abc74847a9e1af3fc3fb4a885d3de133e14ccc35d9cd755ff4df9eb62f4f2b526f5d79bbf2694dd59bc2a2092655c03b5be68561fa982b44c07f560b71c68b76efe528d15414963c15041629e16c0b4e3627a498bc49c160e064275c377e43388ed093962e2f93c8329fa3771f08bb9b52bb532d6d1d1bf3f7353c21dd3d19-->
+<trophyconf version="1.0">
+ <npcommid>NPWR00660_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>inFamous</title-name>
+ <title-detail>Trophy set for inFamous.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>inFamous Platinum Trophy</name>
+  <detail>Collect all other inFamous trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Good Finish</name>
+  <detail>Beat the game as a Hero.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Evil Finish</name>
+  <detail>Beat the game while Infamous.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Hard Finish</name>
+  <detail>Finish story mode on Hard, without changing the difficulty setting.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Community Organizer</name>
+  <detail>Take over all territory in the Neon District.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Civic Leader</name>
+  <detail>Take over all territory in the Warren.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Urban Designer</name>
+  <detail>Take over all territory in the Historic District.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Just Scratched the Surface</name>
+  <detail>Collect all Dead Drops in the Neon District.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Further Down the Rabbit Hole</name>
+  <detail>Collect all Dead Drops in the Warren.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>You're so Sly</name>
+  <detail>Collect all Dead Drops in the Historic District.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Junior Geologist</name>
+  <detail>Find 25% of the Shards.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Member of the Mineral Club</name>
+  <detail>Find 50% of the Shards.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Rockhound</name>
+  <detail>Find 100% of the Shards.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Frequent Flyer</name>
+  <detail>Travel 5 kilometers using Static Thrusters.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Hotfoot</name>
+  <detail>Travel 25 kilometers while riding the rails.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Electric Hobo</name>
+  <detail>Ride the train for 2 kilometers.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Evil to the Core</name>
+  <detail>Purchase every negative Karma upgrade for each power.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>True Hero</name>
+  <detail>Purchase every positive Karma upgrade for each power.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Casey Jones</name>
+  <detail>Take down 25 enemies while riding on a moving train.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Road Kill</name>
+  <detail>Take down 25 enemies while riding on the roof of a moving vehicle.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Drop Everything</name>
+  <detail>Thunder Drop for a total distance of at least 500 meters.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>AC/DC</name>
+  <detail>Drain 750 megawatts of power from Empire City.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Get Off My Cloud</name>
+  <detail>Get 100 High Fall take downs.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Red Baron</name>
+  <detail>Take down 100 enemies while they are airborne.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Fish in a Barrel</name>
+  <detail>Kill 50 enemies by using water.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>True Potential</name>
+  <detail>Purchase every upgrade for a single power.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Oh, You've Done This Before</name>
+  <detail>Take down 50 enemies by sticking them with a grenade.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>The Hunger</name>
+  <detail>Bio Leech 100 enemies.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Doctor Cole</name>
+  <detail>Heal 250 pedestrians.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Goody Two Shoes</name>
+  <detail>Reach full positive Karma.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Truly Infamous</name>
+  <detail>Reach full negative Karma.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Good Eats</name>
+  <detail>Good guys feed the needy.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Evil Eats</name>
+  <detail>Bad guys never share their food.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Good Riot</name>
+  <detail>Good guys stand up and take the heat.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Evil Riot</name>
+  <detail>Bad guys love starting riots.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Good Train</name>
+  <detail>Good guys proactively facilitate transportation solutions.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Evil Train</name>
+  <detail>Bad guys make it clear who the boss is.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Good Exposure</name>
+  <detail>Good guys are heroes to others.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Evil Exposure</name>
+  <detail>Bad guys love to be seen.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Good Sphere</name>
+  <detail>Good guys put a stop to the madness.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Evil Sphere</name>
+  <detail>Bad guys always want more power.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Good Intentions</name>
+  <detail>Good guys work for the greater good.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Evil Intentions</name>
+  <detail>Bad guys can't say goodbye.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Back With Trish</name>
+  <detail>Reconciled with Trish.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Confirmed Bachelor</name>
+  <detail>Trish Hates You.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="000">
+  <name>Clean Up Your Act</name>
+  <detail>Defeat Sasha.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Taking Out The Trash</name>
+  <detail>Defeat Alden.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Stunt Man</name>
+  <detail>Complete any one stunt from the stunt list.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Stunt Coordinator</name>
+  <detail>Complete 10 of the stunts on the stunt list.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>Stunt Master</name>
+  <detail>Complete all of the stunts on the stunt list.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c07c65c902e47b9073ddfed9415f9afdc57495406214b650510eeb31af08aaefdd4109d33c4ed5ad33d97037ef71a50254b3f4b4abad40762477c64a7127ea93b8451706ea49043d86ad40484cd78cd7ed5a0e19c5c58441b9ea1fcd8332d716bd6032587a5224c1c3c5b73862be295a1115a92fdd42ed72e859fea14b5b70c071a9a2d79432f00588a8b44b8265f6f362f5ebe9-->
+<trophyconf version="1.1" policy="large">
+ <npcommid>NPWR00802_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>God of War: Ascension™</title-name>
+ <title-detail>Bu God of War: Ascension™' ın kupa koleksiyonudur</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Tanrıların Şampiyonu</name>
+  <detail>Tüm kupaları aç</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Kan Yemini</name>
+  <detail>Olimpos'taki Çoklu Oyuncu Talimi'ni tamamla</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Hapisten Kaçış</name>
+  <detail>Kratos'u hapsolduğu yerden kurtar</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>El Elden Üstündür</name>
+  <detail>Aegaeon'un Enfeksiyonlu Eli'ni alt et</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Dizginsiz</name>
+  <detail>Zincirle yakaladığın bir düşmanı fırlat, yere çarp ve duvara tosla</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Savurgan</name>
+  <detail>Herhangi bir Büyüyü bir sonraki seviyeye güçlendir</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Döne Döne</name>
+  <detail>Yuvarlanan Ezici Bulmacası'nı çöz</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Açık Fikirli</name>
+  <detail>Bir Jaganat'a karşı Tuşsuz Mini Oyun'u kazan</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Biri Beni Durdursun!</name>
+  <detail>1000 Vuruş Kombosu gerçekleştir</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Ayağını Kaydıran</name>
+  <detail>Bir düşmanı ring dışına Sopayla at</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Yılan Üstünde</name>
+  <detail>Yılanı Delphi Kulesi'ne doğru sür</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>İş Bitiriciler</name>
+  <detail>Dövüşte Çevredeki 5 Silahın hepsini kullan.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Sıcak Yemek</name>
+  <detail>Bir Mentikor'a karşı Tuşsuz Mini Oyun'u kazan</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Geçit Gazı</name>
+  <detail>Kahin'in Tapınağı'ndaki zehirli gazları solu</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Hünerli</name>
+  <detail>Kirra'nın Su Çarkı'nı yeniden inşa et</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Kıpırdama Lütfen</name>
+  <detail>Uroborus'un Tılsımı ile 100 düşmanı yavaşlat</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Bu İz Bırakacak</name>
+  <detail>Kratos'un üzerine 500 kova kan boşalt</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Vay Şerefsizler!</name>
+  <detail>Hekatonkheir'in İşkence Çekeni'ne kötü davran</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Selam Dostum</name>
+  <detail>Orkos'un Yemin Taşı'nı dövüşte 10 kez kullan</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Kim Kime Dum Duma</name>
+  <detail>Orkos'un Yemin Taşı ile 100 düşmana vur</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Bana Gerçek Hislerini Söyle</name>
+  <detail>Tanrıların Öfkesi'ni kullanarak 25 düşman öldür</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Besle Kargayı Oysun Gözünü</name>
+  <detail>Megaera ve Titan Hekatonkheir'i alt et</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Belki De Bir Doktor Çağırmalısın</name>
+  <detail>Öfke Sayacı'nı 2 dakikadan fazla dolu tut</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Hünkarım!!!</name>
+  <detail>Pollux'u alt et</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Tabanları Yağla</name>
+  <detail>Hiddetli Tuzağı'ndan kaç</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Ateş Geçirmez</name>
+  <detail>Ateş Tuzaklarına yakalanmadan Arşimet'in Pervanesi'ni tamamla</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Tüy Kadar Hafif</name>
+  <detail>Tüm Zümrüdüanka Tüylerini topla</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Gözler Üstünde</name>
+  <detail>Tüm Gorgon Gözlerini topla</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Ağzına Kadar Dolmuş</name>
+  <detail>Kratos'u tamamen güçlendir</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Yağ Gibi Kayıyor</name>
+  <detail>Apollo Heykeli'ndeki kızak yolunu ölmeden tamamla</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>Adaletin Gözü Bağlı</name>
+  <detail>Hakikatin Gözlerini başarıyla kullan</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Olmaz Drake. Bunları Alamazsın.</name>
+  <detail>Oyundaki tüm Eserleri topla</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>Bir Dahakine Merdivenleri Kullan</name>
+  <detail>Arşimet'in Sınavı'nı tamamla</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Çalışıyorsa Kurcalama...</name>
+  <detail>Parçalanmış Sandıkların hepsini yeniden yap</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>Bağlar Koparıldı</name>
+  <detail>Oyunu tamamla</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>Efsanevi Savaşçı</name>
+  <detail>Oyunu Zor seviyede tamamla</detail>
+ </trophy>
+</trophyconf>

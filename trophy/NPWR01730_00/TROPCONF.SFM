@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000573611a2d20ca32afe750a96e81494952c2ed618b1d94175d03a3cc8a4371bdf6d4a3ce4a83c920124a020c304612bcb15be7ad681ff3b22a1ebfff8e384364137ebe98a0231ed11fc1d47669feac34aafc18e9b54e4aaddf10eefed1c7024599894d8557ff87ddcf601b8d94e4f6c29e698923c8058c0759fe8a9843232207b395c4de3da91a4e8cac18bff0c704877773f2653-->
+<trophyconf version="1.1">
+ <npcommid>NPWR01730_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>inFamous 2</title-name>
+ <title-detail>inFamous 2的獎盃</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>inFamous 2白金獎盃</name>
+  <detail>收集到所有inFamous 2獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>歷盡艱辛</name>
+  <detail>以「困難」難易度完成遊戲。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>再來一片</name>
+  <detail>收集到所有四散在紐馬瑞的爆炸碎片。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>強者越強</name>
+  <detail>解放並購買所有能力。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>碎片迷</name>
+  <detail>收集到50%四散在紐馬瑞的爆炸碎片。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>為正義而戰</name>
+  <detail>觀看善良結局。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>開創前路</name>
+  <detail>觀看邪惡結局。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>大地主</name>
+  <detail>在紐馬瑞接管第一個島嶼。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>我的地頭</name>
+  <detail>在紐馬瑞接管第二個島嶼。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>通曉內情</name>
+  <detail>取得所有秘密訊號。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>大奸角</name>
+  <detail>惡業力全滿。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>正直不阿</name>
+  <detail>善業力全滿。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>幕後黑手</name>
+  <detail>取得50%的秘密訊號。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>黑箱作業</name>
+  <detail>將伯特崔德想要的東西交給他。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>電車大爆炸</name>
+  <detail>完成「大爆炸！」。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>拯救露西</name>
+  <detail>完成「打頭陣」。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>分飾兩角</name>
+  <detail>完成「欺騙反對派」。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>救護車追逐者</name>
+  <detail>完成「將心比心行動」。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>露西的策略II</name>
+  <detail>選擇露西的方法攻入菲力浦堡。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>妮可絲式攻擊</name>
+  <detail>選擇妮可絲的方法攻入菲力浦堡。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>我是一個好爸爸嗎？</name>
+  <detail>完成「妮可絲的新家庭」。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>揭開真相</name>
+  <detail>完成「揭發伯特崔德」。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>肅清者</name>
+  <detail>完成暗殺支線任務。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>冰凍人材</name>
+  <detail>完成冰超能者的支線任務。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>拆除危機</name>
+  <detail>收拾爆炸碎片炸彈客。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>回到沼澤</name>
+  <detail>返回沼澤封鎖區。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>爬山專家</name>
+  <detail>爬上紐馬瑞三幢最高的建築物上。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>改頭換面</name>
+  <detail>摧毀30個陽台或其他大型物件。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>小心腳下</name>
+  <detail>透過破壞敵人站著的物品來擊倒敵人。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>收拾殘局</name>
+  <detail>使出100次電崩終結或終極電崩連擊。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>停電中的激戰</name>
+  <detail>在未進行任務時，於停電地區擊倒50個敵人。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>越遠越好！</name>
+  <detail>使用動力投擲能力丟出50個物件。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>冷血柯爾</name>
+  <detail>擊倒100個市民。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>一人軍隊</name>
+  <detail>擊倒300個敵人。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>人民英雄</name>
+  <detail>阻止80個進行中的犯罪。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>高不可攀</name>
+  <detail>離地面130米。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>退貨</name>
+  <detail>使用任何轟擊能力反彈直昇機的火箭炮。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>汽車式大屠殺</name>
+  <detail>透過投擲車輛來擊倒25個敵人。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>兜風好日子</name>
+  <detail>使出一次離子旋風，同時擊中6輛車以上。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>雷霆萬鈞</name>
+  <detail>使用雷鳴攻擊對付5個以上的敵人。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>雷聲隆隆</name>
+  <detail>從鈕馬瑞最高的地方使出雷鳴攻擊。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>獵頭族</name>
+  <detail>使用精準模式的能力，短時間內累積三次頭部衝擊。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>與眾不同的品味</name>
+  <detail>收拾一個模仿成雕像的街頭表演者。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>同時觸電</name>
+  <detail>踏入水中來擊倒一個敵人或市民。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>還我自由</name>
+  <detail>爬過鐵絲網圍欄慶祝重獲自由。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>特快昇降機</name>
+  <detail>爬上50條垂直升空桿。</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>威力大亨</name>
+  <detail>使用離子能力30次。</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>速配組合</name>
+  <detail>完成條件來解放與購買每一類型的超能力。</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>關卡升級</name>
+  <detail>使用UGC關卡編輯器建立新任務。</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>UGC好奇者</name>
+  <detail>遊玩10個玩者自創任務。</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>UGC老手</name>
+  <detail>遊玩25個玩者自創任務。</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>好奇心旺盛</name>
+  <detail>將過濾器設為「最新」，並遊玩當中5個玩者自創任務。</detail>
+ </trophy>
+</trophyconf>

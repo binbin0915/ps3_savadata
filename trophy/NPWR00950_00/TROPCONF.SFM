@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007d1028147bae22139555b0e6ad45c05f0f91dff1a8b4998802f8c91ea4656aa34d6df14ca9ea81456707f0d4e00d7d22f64c4c6438f3ab62ae552fd33c52f84660ae8e0ae42ccede08079447b3786df24957f304bdecb66647839a3f1bd72195c1ddea452e5264686fb8873e5f90bb39a67dfb1eb419b1bb3631c5c6ee83bed29fe7c322e6f5a7e414d6c0dc1319911039c259d0-->
+<trophyconf version="1.1">
+ <npcommid>NPWR00950_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>God of War® Trophies</title-name>
+ <title-detail>Trophies for God of War®</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Trophy of Zeus</name>
+  <detail>Unlock all God of War® Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>1.21 Gigawatts</name>
+  <detail>Acquire Poseidon’s Rage</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Rocking Out</name>
+  <detail>Acquire Medusa’s Gaze</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Bolt Action</name>
+  <detail>Acquire Zeus’ Fury</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Sword Man</name>
+  <detail>Acquire Blade of Artemis</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Soul Search</name>
+  <detail>Acquire Army of Hades</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Matador</name>
+  <detail>Win the first Minotaur fight</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Scape Goat</name>
+  <detail>Win the first Satyr fight</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Roll Over ... and Die</name>
+  <detail>Win the first Cerberus fight</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Don't They Ever Shut Up!</name>
+  <detail>Defeat the Desert Sirens</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Beat a Dead Horse</name>
+  <detail>Complete the Centaur sacrifice to Hades</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Kickboxer</name>
+  <detail>Complete the Spike Room Box Puzzle</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Rockin' the Boat</name>
+  <detail>Complete the Sex Mini-Game</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Don't Leave Her Hanging</name>
+  <detail>Rescue the Oracle with 10 seconds to spare</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Get the Ball Rolling</name>
+  <detail>Complete the Challenge of Atlas</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Totally Baked</name>
+  <detail>Complete the Sacrifice</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Splash</name>
+  <detail>Kiss the Nyad</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Get Me a Beer Kid</name>
+  <detail>Free yourself from the depths of Hades</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Zero Health = Bronze Trophy</name>
+  <detail>Open a Health Chest when your health meter is already full</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Hitman</name>
+  <detail>Get a 100 Hits Combo</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Getting My Ass Kicked</name>
+  <detail>Die enough times to get offered Easy mode</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Kratos' Marble Collection</name>
+  <detail>Collect all the Gorgon Eyes</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Stick it in Your Cap!</name>
+  <detail>Collect all the Phoenix Feathers</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>It's the HUGE One</name>
+  <detail>Retrieve the Captain's Key</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Take the Bull by the Horns</name>
+  <detail>Defeat Pandora's Guardian</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>God Killer</name>
+  <detail>Kill Ares</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Head Hunter</name>
+  <detail>Obtain the head of the Architect's wife</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>The Power to Kill a God</name>
+  <detail>Retrieve Pandora’s Box</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Hitman 2</name>
+  <detail>Get a 200 Hits Combo</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Legend of the Twins</name>
+  <detail>Watch the 'Birth of the Beast' Treasure</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Seeing Red</name>
+  <detail>Max out all Weapons and Magic</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Prepare to be a God</name>
+  <detail>Beat the Game on any Difficulty</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>You Got the Touch!</name>
+  <detail>Climb the Spiked Column in Hades without taking damage</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>I’ll Take the Physical Challenge</name>
+  <detail>Complete the Challenge of the Gods</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Speed of Jason McDonald</name>
+  <detail>Beat the game in under 5 hours on any Difficulty</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Key to Success</name>
+  <detail>Collect all of the Muse Keys</detail>
+ </trophy>
+</trophyconf>

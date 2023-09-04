@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006d67b6610d419ab2c1b7a070bf3c2d2b2073def68f7d4b49294bf4db30fbb69ffaf73b810b65b1dd416fa29bdcf1465212b36878249e0c972179ea2341b488da854a33542d9e6670fdad49cb77bcafdddeb4691c7b86f2e1f3a1ec71832d7fbc945f2a35f6deffa4338e074f0890035aedbf463af355b347ab2056cb13ff368bc2d712975721d8c86158800ea00a01bb8bf37dbf-->
+<trophyconf version="1.1">
+ <npcommid>NPWR02652_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ワンピース 海賊無双</title-name>
+ <title-detail>ワンピース 海賊無双のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>世界の偉大な海の王だ！</name>
+  <detail>全てのトロフィーを獲得！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>冒険のにおいがするっ</name>
+  <detail>最初のルフィのアクションに成功した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>仲間になってくれよ！</name>
+  <detail>はじめてスキルを出現させた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>“２年後”</name>
+  <detail>最初のステージをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>ぶっ飛ばす！</name>
+  <detail>初めて弱点に攻撃して気絶を与えた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>仲間ならいるさ！！</name>
+  <detail>初めて仲間ストライクを出した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>おれは一人だ 道をあけろ！！！！</name>
+  <detail>初めて１エピソード内で１０００人撃破を達成した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>あ～まいった　力　入らねぇ</name>
+  <detail>海などに１０回落ちた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>わりぃ　おれ死んだ</name>
+  <detail>エピソードを再挑戦した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>おせぇ</name>
+  <detail>パシフィスタへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>つかまえた！！足！</name>
+  <detail>バギーへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>覚悟しろよ！！！</name>
+  <detail>クリークへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>あいつの鼻へし折ってやる…！</name>
+  <detail>アーロンへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>お前は何もわかっちゃいねェ</name>
+  <detail>クロコダイルへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>どけ　お前ェ！！！</name>
+  <detail>ブルーノへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>まいったなんて…言ってねェ</name>
+  <detail>ルッチへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>男一匹　選んだ死の道</name>
+  <detail>青キジへの特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>次こそお前じゃァ　“麦わら”</name>
+  <detail>赤犬への特別な攻撃に成功した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>麦わらの一味</name>
+  <detail>麦わらの一味のコインをすべてそろえた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>海軍総戦力</name>
+  <detail>海軍関連人物のコインをすべてそろえた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>おれはお前を越えていく</name>
+  <detail>立ちふさがる強敵のコインをすべてそろえた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>愛してくれて　ありがとう</name>
+  <detail>マリンフォードを原作の展開のままにクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>海賊狩りのゾロ</name>
+  <detail>アナザーログでゾロ編をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>泥棒猫　ナミ</name>
+  <detail>アナザーログでナミ編をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>狙撃の王様　そげキング</name>
+  <detail>アナザーログでウソップ編をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>黒足のサンジ</name>
+  <detail>アナザーログでサンジ編をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>わたあめ大好きチョッパー</name>
+  <detail>アナザーログでチョッパー編をクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>悪魔の子　ニコ・ロビン</name>
+  <detail>アナザーログでロビン編をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>鉄人　フランキー</name>
+  <detail>アナザーログでフランキー編をクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>鼻唄のブルック</name>
+  <detail>アナザーログでブルック編をクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>火拳のエース</name>
+  <detail>アナザーログでエース編をクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>海賊女帝　ボア・ハンコック</name>
+  <detail>アナザーログでハンコック編をクリアした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>海侠のジンベエ</name>
+  <detail>アナザーログでシンベエ編をクリアした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>大海賊　白ひげ</name>
+  <detail>アナザーログで白ひげ編をクリアした</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>逃げるぞ　黄金奪ってきた</name>
+  <detail>スキルを全て出現させた</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>麦わらの　ルフィ</name>
+  <detail>メインログをクリアした</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>“１０万ｖｓ．１０”</name>
+  <detail>総撃破人数が　１００，０００人を超えた</detail>
+ </trophy>
+</trophyconf>
