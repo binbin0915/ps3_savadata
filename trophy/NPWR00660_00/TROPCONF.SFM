@@ -1,208 +1,208 @@
-<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000064dba20012365c9baabacd4c6057f80c46ed184190abc74847a9e1af3fc3fb4a885d3de133e14ccc35d9cd755ff4df9eb62f4f2b526f5d79bbf2694dd59bc2a2092655c03b5be68561fa982b44c07f560b71c68b76efe528d15414963c15041629e16c0b4e3627a498bc49c160e064275c377e43388ed093962e2f93c8329fa3771f08bb9b52bb532d6d1d1bf3f7353c21dd3d19-->
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f7fb95f07d729f01cbee11cc3ac32753bd8108196fae1eccf217e5dca65939562290457cb0d2b6ff3a793d2929a2d4d63f52fe379309021f86b629455007e9a98abd0639bc7863a9f10f8088aef9b4a25485dfe25e01dc38205fc1d64e5fdf54013b6dd8f6c44c7a8da0ab94704bff8e6449ae43ef0668e2dc8d1dff0882880f7aa2cd62d64ac8ecea4006cc99f1df26a5702bb1-->
 <trophyconf version="1.0">
  <npcommid>NPWR00660_00</npcommid>
  <trophyset-version>01.00</trophyset-version>
  <parental-level license-area="default">0</parental-level>
  <title-name>inFamous</title-name>
- <title-detail>Trophy set for inFamous.</title-detail>
+ <title-detail>inFamous的獎盃組</title-detail>
  <trophy id="000" hidden="no" ttype="P" pid="-1">
-  <name>inFamous Platinum Trophy</name>
-  <detail>Collect all other inFamous trophies.</detail>
+  <name>inFamous白金獎盃</name>
+  <detail>收集齊全所有inFamous的其他獎盃。</detail>
  </trophy>
  <trophy id="001" hidden="no" ttype="S" pid="000">
-  <name>Good Finish</name>
-  <detail>Beat the game as a Hero.</detail>
+  <name>好人達成</name>
+  <detail>在英雄狀態下完成遊戲。</detail>
  </trophy>
  <trophy id="002" hidden="no" ttype="S" pid="000">
-  <name>Evil Finish</name>
-  <detail>Beat the game while Infamous.</detail>
+  <name>邪惡達成</name>
+  <detail>在惡名昭彰的狀態下完成遊戲。</detail>
  </trophy>
  <trophy id="003" hidden="no" ttype="G" pid="000">
-  <name>Hard Finish</name>
-  <detail>Finish story mode on Hard, without changing the difficulty setting.</detail>
+  <name>完成困難模式</name>
+  <detail>在不調整難易度的情況下，以困難模式完成遊戲。</detail>
  </trophy>
  <trophy id="004" hidden="no" ttype="S" pid="000">
-  <name>Community Organizer</name>
-  <detail>Take over all territory in the Neon District.</detail>
+  <name>社區組織者</name>
+  <detail>征服霓虹區內所有地區。</detail>
  </trophy>
  <trophy id="005" hidden="no" ttype="S" pid="000">
-  <name>Civic Leader</name>
-  <detail>Take over all territory in the Warren.</detail>
+  <name>城市領導者</name>
+  <detail>征服鬧區內所有地區。</detail>
  </trophy>
  <trophy id="006" hidden="no" ttype="S" pid="000">
-  <name>Urban Designer</name>
-  <detail>Take over all territory in the Historic District.</detail>
+  <name>城市設計師</name>
+  <detail>征服舊城區內所有地區。</detail>
  </trophy>
  <trophy id="007" hidden="no" ttype="B" pid="000">
-  <name>Just Scratched the Surface</name>
-  <detail>Collect all Dead Drops in the Neon District.</detail>
+  <name>表面功夫</name>
+  <detail>收集所有霓虹區內的死亡點。</detail>
  </trophy>
  <trophy id="008" hidden="no" ttype="B" pid="000">
-  <name>Further Down the Rabbit Hole</name>
-  <detail>Collect all Dead Drops in the Warren.</detail>
+  <name>進入虎穴</name>
+  <detail>收集所有鬧區內的死亡點。</detail>
  </trophy>
  <trophy id="009" hidden="no" ttype="B" pid="000">
-  <name>You're so Sly</name>
-  <detail>Collect all Dead Drops in the Historic District.</detail>
+  <name>身手矯健</name>
+  <detail>收集所有舊城區內的死亡點。</detail>
  </trophy>
  <trophy id="010" hidden="no" ttype="B" pid="000">
-  <name>Junior Geologist</name>
-  <detail>Find 25% of the Shards.</detail>
+  <name>新進地質學者。</name>
+  <detail>找出25%的碎片。</detail>
  </trophy>
  <trophy id="011" hidden="no" ttype="B" pid="000">
-  <name>Member of the Mineral Club</name>
-  <detail>Find 50% of the Shards.</detail>
+  <name>礦物俱樂部成員</name>
+  <detail>找出50%的碎片。</detail>
  </trophy>
  <trophy id="012" hidden="no" ttype="B" pid="000">
-  <name>Rockhound</name>
-  <detail>Find 100% of the Shards.</detail>
+  <name>礦石獵人</name>
+  <detail>找出100%的碎片。</detail>
  </trophy>
  <trophy id="013" hidden="no" ttype="B" pid="000">
-  <name>Frequent Flyer</name>
-  <detail>Travel 5 kilometers using Static Thrusters.</detail>
+  <name>頻繁的飛行者</name>
+  <detail>使用靜電飛行旅行5公里。</detail>
  </trophy>
  <trophy id="014" hidden="no" ttype="B" pid="000">
-  <name>Hotfoot</name>
-  <detail>Travel 25 kilometers while riding the rails.</detail>
+  <name>好腳力</name>
+  <detail>在鐵軌上滑行25公里。</detail>
  </trophy>
  <trophy id="015" hidden="no" ttype="B" pid="000">
-  <name>Electric Hobo</name>
-  <detail>Ride the train for 2 kilometers.</detail>
+  <name>電力遊民</name>
+  <detail>駕駛列車行進2公里。</detail>
  </trophy>
  <trophy id="016" hidden="no" ttype="S" pid="000">
-  <name>Evil to the Core</name>
-  <detail>Purchase every negative Karma upgrade for each power.</detail>
+  <name>邪惡的核心</name>
+  <detail>替所有能力購買所有負面業力的升級。</detail>
  </trophy>
  <trophy id="017" hidden="no" ttype="S" pid="000">
-  <name>True Hero</name>
-  <detail>Purchase every positive Karma upgrade for each power.</detail>
+  <name>真英雄</name>
+  <detail>替所有能力購買所有正面業力的升級。</detail>
  </trophy>
  <trophy id="018" hidden="no" ttype="B" pid="000">
-  <name>Casey Jones</name>
-  <detail>Take down 25 enemies while riding on a moving train.</detail>
+  <name>凱西‧瓊斯</name>
+  <detail>在火車上打倒50個敵人。</detail>
  </trophy>
  <trophy id="019" hidden="no" ttype="B" pid="000">
-  <name>Road Kill</name>
-  <detail>Take down 25 enemies while riding on the roof of a moving vehicle.</detail>
+  <name>道路殺手</name>
+  <detail>在行進中的車輛上打倒25個敵人。</detail>
  </trophy>
  <trophy id="020" hidden="no" ttype="B" pid="000">
-  <name>Drop Everything</name>
-  <detail>Thunder Drop for a total distance of at least 500 meters.</detail>
+  <name>擊落一切</name>
+  <detail>在500公尺外使用雷鳴攻擊。</detail>
  </trophy>
  <trophy id="021" hidden="no" ttype="B" pid="000">
   <name>AC/DC</name>
-  <detail>Drain 750 megawatts of power from Empire City.</detail>
+  <detail>從帝國市吸收750億萬瓦的電力。</detail>
  </trophy>
  <trophy id="022" hidden="no" ttype="B" pid="000">
-  <name>Get Off My Cloud</name>
-  <detail>Get 100 High Fall take downs.</detail>
+  <name>從我的雲滾開</name>
+  <detail>使用高處攻擊打倒100個敵人。</detail>
  </trophy>
  <trophy id="023" hidden="no" ttype="B" pid="000">
-  <name>Red Baron</name>
-  <detail>Take down 100 enemies while they are airborne.</detail>
+  <name>紅男爵</name>
+  <detail>打倒100個在空中的敵人</detail>
  </trophy>
  <trophy id="024" hidden="no" ttype="B" pid="000">
-  <name>Fish in a Barrel</name>
-  <detail>Kill 50 enemies by using water.</detail>
+  <name>在桶子內釣魚</name>
+  <detail>使用水殲滅50個敵人。</detail>
  </trophy>
  <trophy id="025" hidden="no" ttype="B" pid="000">
-  <name>True Potential</name>
-  <detail>Purchase every upgrade for a single power.</detail>
+  <name>所有可能性</name>
+  <detail>購買每個能力的升級。</detail>
  </trophy>
  <trophy id="026" hidden="no" ttype="B" pid="000">
-  <name>Oh, You've Done This Before</name>
-  <detail>Take down 50 enemies by sticking them with a grenade.</detail>
+  <name>喂，你之前已經做過了</name>
+  <detail>使用手榴彈打倒50個敵人。</detail>
  </trophy>
  <trophy id="027" hidden="no" ttype="B" pid="000">
-  <name>The Hunger</name>
-  <detail>Bio Leech 100 enemies.</detail>
+  <name>渴望者</name>
+  <detail>在100個敵人身上使用能量移轉。</detail>
  </trophy>
  <trophy id="028" hidden="no" ttype="B" pid="000">
-  <name>Doctor Cole</name>
-  <detail>Heal 250 pedestrians.</detail>
+  <name>柯爾醫生</name>
+  <detail>治療250個行人。</detail>
  </trophy>
  <trophy id="029" hidden="no" ttype="S" pid="000">
-  <name>Goody Two Shoes</name>
-  <detail>Reach full positive Karma.</detail>
+  <name>超級模範生</name>
+  <detail>達成所有正面的業力。</detail>
  </trophy>
  <trophy id="030" hidden="no" ttype="S" pid="000">
-  <name>Truly Infamous</name>
-  <detail>Reach full negative Karma.</detail>
+  <name>完全惡名昭彰</name>
+  <detail>取得全部負面業力。</detail>
  </trophy>
  <trophy id="031" hidden="no" ttype="B" pid="000">
-  <name>Good Eats</name>
-  <detail>Good guys feed the needy.</detail>
+  <name>良好的食物</name>
+  <detail>好人能滿足需求。</detail>
  </trophy>
  <trophy id="032" hidden="no" ttype="B" pid="000">
-  <name>Evil Eats</name>
-  <detail>Bad guys never share their food.</detail>
+  <name>邪惡的食物</name>
+  <detail>壞人從不分享食物。</detail>
  </trophy>
  <trophy id="033" hidden="no" ttype="B" pid="000">
-  <name>Good Riot</name>
-  <detail>Good guys stand up and take the heat.</detail>
+  <name>良好的混亂</name>
+  <detail>好人會站出來除掉亂源。</detail>
  </trophy>
  <trophy id="034" hidden="no" ttype="B" pid="000">
-  <name>Evil Riot</name>
-  <detail>Bad guys love starting riots.</detail>
+  <name>邪惡的混亂</name>
+  <detail>壞人喜歡造成混亂。</detail>
  </trophy>
  <trophy id="035" hidden="no" ttype="B" pid="000">
-  <name>Good Train</name>
-  <detail>Good guys proactively facilitate transportation solutions.</detail>
+  <name>善良列車</name>
+  <detail>好人會積極地解決交通事故。</detail>
  </trophy>
  <trophy id="036" hidden="no" ttype="B" pid="000">
-  <name>Evil Train</name>
-  <detail>Bad guys make it clear who the boss is.</detail>
+  <name>邪惡列車</name>
+  <detail>壞人很清楚地知道誰才是老大。</detail>
  </trophy>
  <trophy id="037" hidden="no" ttype="B" pid="000">
-  <name>Good Exposure</name>
-  <detail>Good guys are heroes to others.</detail>
+  <name>良好的曝光</name>
+  <detail>好人是其他的人英雄。</detail>
  </trophy>
  <trophy id="038" hidden="no" ttype="B" pid="000">
-  <name>Evil Exposure</name>
-  <detail>Bad guys love to be seen.</detail>
+  <name>邪惡曝光</name>
+  <detail>壞人喜歡被看見。</detail>
  </trophy>
  <trophy id="039" hidden="no" ttype="B" pid="000">
-  <name>Good Sphere</name>
-  <detail>Good guys put a stop to the madness.</detail>
+  <name>良好的地位</name>
+  <detail>好人能制止瘋狂的行為。</detail>
  </trophy>
  <trophy id="040" hidden="no" ttype="B" pid="000">
-  <name>Evil Sphere</name>
-  <detail>Bad guys always want more power.</detail>
+  <name>邪惡地位</name>
+  <detail>壞人總需要更多權力。</detail>
  </trophy>
  <trophy id="041" hidden="no" ttype="B" pid="000">
-  <name>Good Intentions</name>
-  <detail>Good guys work for the greater good.</detail>
+  <name>良好的意圖</name>
+  <detail>好人為了還要變得更好而奔走。</detail>
  </trophy>
  <trophy id="042" hidden="no" ttype="B" pid="000">
-  <name>Evil Intentions</name>
-  <detail>Bad guys can't say goodbye.</detail>
+  <name>邪惡的意圖</name>
+  <detail>壞人不知道什麼時候該道再見。</detail>
  </trophy>
  <trophy id="043" hidden="yes" ttype="B" pid="000">
-  <name>Back With Trish</name>
-  <detail>Reconciled with Trish.</detail>
+  <name>和崔許和好</name>
+  <detail>和崔許和解。</detail>
  </trophy>
  <trophy id="044" hidden="yes" ttype="B" pid="000">
-  <name>Confirmed Bachelor</name>
-  <detail>Trish Hates You.</detail>
+  <name>確定成為王老五</name>
+  <detail>讓崔許恨你。</detail>
  </trophy>
  <trophy id="045" hidden="yes" ttype="S" pid="000">
-  <name>Clean Up Your Act</name>
-  <detail>Defeat Sasha.</detail>
+  <name>劃清界限</name>
+  <detail>打倒莎夏</detail>
  </trophy>
  <trophy id="046" hidden="yes" ttype="B" pid="000">
-  <name>Taking Out The Trash</name>
-  <detail>Defeat Alden.</detail>
+  <name>清空垃圾</name>
+  <detail>打倒亞爾登。</detail>
  </trophy>
  <trophy id="047" hidden="no" ttype="B" pid="000">
-  <name>Stunt Man</name>
-  <detail>Complete any one stunt from the stunt list.</detail>
+  <name>絕招男</name>
+  <detail>完成一項絕招列表上的絕招</detail>
  </trophy>
  <trophy id="048" hidden="no" ttype="B" pid="000">
-  <name>Stunt Coordinator</name>
-  <detail>Complete 10 of the stunts on the stunt list.</detail>
+  <name>招式協調者</name>
+  <detail>完成招式列表中10項招式。</detail>
  </trophy>
  <trophy id="049" hidden="no" ttype="S" pid="000">
-  <name>Stunt Master</name>
-  <detail>Complete all of the stunts on the stunt list.</detail>
+  <name>絕招大師</name>
+  <detail>完成所有招式列表上的招式</detail>
  </trophy>
 </trophyconf>
